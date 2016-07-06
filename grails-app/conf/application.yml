@@ -21,7 +21,7 @@ environments:
             dbCreate: none
             url: jdbc:postgresql://localhost:5432/demo_dev
             username: postgres
-            password: abc123
+            password: postgres
     test:
         dataSource:
             dbCreate: none
