@@ -1,0 +1,3 @@
+2016-06-28 14:56:12 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLException: Table "OAUTH_ACCESS_TOKEN" not found; SQL statement:
+select token_id, token from oauth_access_token where token_id = ? [42102-190]
